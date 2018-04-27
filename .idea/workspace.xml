@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcb5929-8fe0-4212-834e-9f9feed5972e" name="Default" comment="" />
+    <list default="true" id="cfcb5929-8fe0-4212-834e-9f9feed5972e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/JoinMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/SleepMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ComparatorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/ComparatorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/Student1.class" afterDir="false" />
+    </list>
     <ignored path="Automation.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,15 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WebAutomation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8313">
-              <caret line="522" column="31" selection-start-line="522" selection-start-column="31" selection-end-line="522" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ComparableA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparableA.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,14 +43,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComparatorA.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComparatorA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparatorA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VectorA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SleepMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/SleepMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirectRunMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NamingThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoinMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/JoinMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -81,15 +149,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ANestedTry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ALambdaExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/AAbstract.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/AThrowsKeyword.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/VariableAgrs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/program/NewInheritance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/InheritanceRelated.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/SingleInheritance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ASwitch.java" />
@@ -135,6 +200,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparableA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparatorA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/SleepMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/JoinMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java" />
       </list>
     </option>
   </component>
@@ -154,13 +225,13 @@
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -179,10 +250,18 @@
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="sweety.automation" type="1f31426a:PackageElementNode" />
             </path>
+            <path>
+              <item name="Automation" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Automation" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="sweety.automation" type="1f31426a:PackageElementNode" />
+              <item name="Multithreading" type="1f31426a:PackageElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,61 +293,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparatorA">
+  <component name="RunManager" selected="Application.NamingThread">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ComparableA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.ComparableA" />
+    <configuration name="DirectRunMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.DirectRunMethod" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.*" />
+          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ComparatorA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.ComparatorA" />
+    <configuration name="JoinMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.JoinMethod" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.*" />
+          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DataOutputInputStreamA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.IOA.DataOutputInputStreamA" />
+    <configuration name="NamingThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.NamingThread" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.IOA.*" />
+          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.IOA.InputStream" />
+    <configuration name="SleepMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.SleepMethod" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.IOA.*" />
+          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SequenceInputStreamA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.IOA.SequenceInputStreamA" />
+    <configuration name="ThreadExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.ThreadExample1" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.IOA.*" />
+          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -531,19 +610,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.InputStream" />
-      <item itemvalue="Application.SequenceInputStreamA" />
-      <item itemvalue="Application.DataOutputInputStreamA" />
-      <item itemvalue="Application.ComparableA" />
-      <item itemvalue="Application.ComparatorA" />
+      <item itemvalue="Application.ThreadExample1" />
+      <item itemvalue="Application.SleepMethod" />
+      <item itemvalue="Application.DirectRunMethod" />
+      <item itemvalue="Application.JoinMethod" />
+      <item itemvalue="Application.NamingThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComparatorA" />
-        <item itemvalue="Application.ComparableA" />
-        <item itemvalue="Application.DataOutputInputStreamA" />
-        <item itemvalue="Application.SequenceInputStreamA" />
-        <item itemvalue="Application.InputStream" />
+        <item itemvalue="Application.NamingThread" />
+        <item itemvalue="Application.DirectRunMethod" />
+        <item itemvalue="Application.JoinMethod" />
+        <item itemvalue="Application.SleepMethod" />
+        <item itemvalue="Application.ThreadExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -571,17 +650,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30847457" />
       <window_info id="Palette&#9;" order="2" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5060514" side_tool="true" weight="0.39249146" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.39249146" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.40508476" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27010623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27389985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
@@ -590,7 +671,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3100511" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
@@ -617,48 +697,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/YetMoreInitializationOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Questions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/ProgramEssential.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/program/Basic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/InheritanceRelated.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/program/NestedClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Notepad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -972,10 +1010,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparatorA.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/SleepMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/JoinMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
           </folding>
         </state>
       </provider>
