@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfcb5929-8fe0-4212-834e-9f9feed5972e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DaemonThreadEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/PriorityThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/RuntimeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ShutdownHookEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadGroupEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/multiTaskingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccuranceOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccurrenceOfEachChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/totalChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/RuntimeEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/RuntimeEx.class" afterDir="false" />
     </list>
     <ignored path="Automation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,110 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DirectRunMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java">
+      <file leaf-file-name="RemoveWhiteSpaces.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="34" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Notepad.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Notepad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NamingThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java">
+      <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaemonThreadEx.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DaemonThreadEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/PriorityThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadGroupEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadGroupEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RuntimeEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/RuntimeEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="4" selection-start-line="4" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiTaskingEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/multiTaskingEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShutdownHookEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ShutdownHookEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1199">
-              <caret line="1081" column="42" selection-start-line="1081" selection-start-column="42" selection-end-line="1081" selection-end-column="42" />
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -152,13 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Polymorphism.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/YetMoreInitializationOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ADateTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/AInherit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/ProgramEssential.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/AStringPrograms.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/RestfulService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Questions.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java" />
@@ -203,6 +108,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ShutdownHookEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/multiTaskingEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/RuntimeEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/totalChars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccuranceOfChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccurrenceOfEachChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java" />
       </list>
     </option>
   </component>
@@ -229,6 +141,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -252,17 +165,16 @@
               <item name="Automation" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="sweety.automation" type="1f31426a:PackageElementNode" />
-              <item name="Multithreading" type="1f31426a:PackageElementNode" />
+              <item name="StringRelated" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/SM_Framework/SMTestAutomation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -290,50 +202,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RuntimeEx">
+  <component name="RunManager" selected="Application.RemoveWhiteSpaces">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="DaemonThreadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.DaemonThreadEx" />
+    <configuration name="OccuranceOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.OccuranceOfChar" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RuntimeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.RuntimeEx" />
+    <configuration name="OccurrenceOfEachChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.OccurrenceOfEachChar" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ShutdownHookEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.ShutdownHookEx" />
+    <configuration name="RemoveWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.RemoveWhiteSpaces" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadGroupEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.ThreadGroupEx" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.ReverseString" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,13 +253,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="multiTaskingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Multithreading.multiTaskingEx" />
+    <configuration name="totalChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.totalChars" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.Multithreading.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,19 +519,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.DaemonThreadEx" />
-      <item itemvalue="Application.ThreadGroupEx" />
-      <item itemvalue="Application.ShutdownHookEx" />
-      <item itemvalue="Application.multiTaskingEx" />
-      <item itemvalue="Application.RuntimeEx" />
+      <item itemvalue="Application.totalChars" />
+      <item itemvalue="Application.OccuranceOfChar" />
+      <item itemvalue="Application.OccurrenceOfEachChar" />
+      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.RemoveWhiteSpaces" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RuntimeEx" />
-        <item itemvalue="Application.multiTaskingEx" />
-        <item itemvalue="Application.ShutdownHookEx" />
-        <item itemvalue="Application.ThreadGroupEx" />
-        <item itemvalue="Application.DaemonThreadEx" />
+        <item itemvalue="Application.RemoveWhiteSpaces" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.OccurrenceOfEachChar" />
+        <item itemvalue="Application.OccuranceOfChar" />
+        <item itemvalue="Application.totalChars" />
       </list>
     </recent_temporary>
   </component>
@@ -659,7 +571,7 @@
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.40508476" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2784522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29210925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
@@ -694,69 +606,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/FileReaderA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASearching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASearchRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/program/JavaTopics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/program/SeleniumAutomation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="265" selection-start-line="265" selection-end-line="265" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/CharArrayReaderA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/CharArrayWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="134" column="16" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/ArrayRelated.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1007,7 +856,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/PriorityThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
+        <state relative-caret-position="204">
           <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
@@ -1016,23 +865,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/multiTaskingEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="323">
           <caret line="23" column="1" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,7 +895,7 @@
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1070,15 +909,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/RuntimeEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
+        <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DaemonThreadEx.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="274" column="44" lean-forward="true" selection-start-line="274" selection-start-column="44" selection-end-line="274" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="553" column="13" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="13" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/totalChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccuranceOfChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="61" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccurrenceOfEachChar.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-end-line="18" />
         </state>
       </provider>
     </entry>
