@@ -7,6 +7,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.interactions.touch.DownAction;
@@ -47,22 +48,22 @@ public class WebAutomation extends Thread{
 //        //Set location to store file after downloading
 //        profile.setPreference("browser.download.dir", "D:\\Download");
 //        profile.setPreference("browser.download.folderList", 2);
-
+//
 //        //set preferences to not show file download confirmation dialogue
 //        profile.setPreference("browser.download.manager.showWhenStarting", false);
 //        profile.setPreference("browser.helperApps.neverAsk.openFile", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
 //        profile.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
 //        profile.setPreference("pdfjs.disabled", true);
-//
-//
+////
+////
 //        FirefoxDriver driver = new FirefoxDriver(profile);
 
         //Launching chrome browser
-        System.setProperty("webdriver.chrome.driver", "D:\\webdriver/chromedriver.exe");
-        WebDriver driver = new ChromeDriver();
+//        System.setProperty("webdriver.chrome.driver", "D:\\webdriver/chromedriver.exe");
+//        WebDriver driver = new ChromeDriver();
 
         //set size of browser
-        driver.manage().window().maximize(); // Maximize
+//        driver.manage().window().maximize(); // Maximize
         //driver.manage().window().setPosition(new Point(0, -1000)); //Minimize
         //Dimension dimension = new Dimension(400, 600);
         //driver.manage().window().setSize(dimension);
@@ -271,15 +272,38 @@ public class WebAutomation extends Thread{
 //        }
 
       //SSL certificate error - http://www.testinginterviewquestion.com/2014/05/how-to-handle-ssl-certificate-error-on.html
-        //Handled SSL Certificate error in chrome
+        //Handled SSL Certificate error in chrome -- deprecated after selenium 3.5.3 -- need to check again
 //        DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 //        capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
 //        WebDriver driver = new ChromeDriver(capabilities);
 
-        //Handle SSL Certificate error in ff
-//        DesiredCapabilities capabilities = new DesiredCapabilities();
-//        capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
-//        WebDriver driver = new FirefoxDriver(capabilities);
+//       //Handle SSL Certificate error in ff
+
+//        DesiredCapabilities capabilities = new DesiredCapabilities(); //-- deprecated after selenium -3.5.3
+//        capabilities.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true); //Now ACCEPT_SSL_CERT has deprecated
+//        System.setProperty("webdriver.gecko.driver","D:\\webdriver/geckodriver.exe");
+//        WebDriver driver1 = new FirefoxDriver(capabilities);
+//        driver1.manage().window().maximize();
+////        driver1.get("https://www.cacert.org/");
+//        driver1.get("http://192.168.32.193:8080/crateandbarrel");
+
+//        DesiredCapabilities caps = new DesiredCapabilities(); //-- -- deprecated after selenium -3.5.3
+////        caps.setCapability("unexpectedAlertBehaviour", "accept");
+////        caps.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
+////        System.setProperty("webdriver.ie.driver", IEDriverPath);
+////        driver = new org.openqa.selenium.ie.InternetExplorerDriver(caps);
+
+//        Working fine
+//        FirefoxOptions co = new FirefoxOptions();
+//                    co.setCapability("acceptInsecureCerts", true);
+//                    System.setProperty("webdriver.gecko.driver", getFirefoxDriver());
+//                    driver = new FirefoxDriver(co);
+
+
+
+
+//
+//
 
         //Broken Link
 //        driver.get("https://www.google.com");
@@ -387,13 +411,13 @@ public class WebAutomation extends Thread{
 //        ChromeOptions option = new ChromeOptions();
 //        option.addExtensions(new File("D:\\Momentum_v0.101.2.crx"));
 //        WebDriver driver2 = new ChromeDriver(option);
-        //OR
+        //OR -- DesiredCapabilities has deprecated in 3.10
 //        DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 //        capabilities.setCapability(ChromeOptions.CAPABILITY,option);
 //        WebDriver driver2 = new ChromeDriver(capabilities);
 
 
-        driver.close();
+//        driver.close();
     }
 
 
@@ -529,11 +553,11 @@ public class WebAutomation extends Thread{
 //    css=a:contains('Demo Site') -- not working now
 
 
+//Grid -- done
 
 
 
 //Tool tip : http://www.testinginterviewquestion.com/2014/06/dfds.html
-    //Grid
 
 
 
