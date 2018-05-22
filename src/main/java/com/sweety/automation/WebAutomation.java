@@ -1,8 +1,8 @@
 package com.sweety.automation;
 
-import junit.framework.Assert;
-import org.apache.commons.io.FileUtils;
-import org.junit.After;
+//import junit.framework.Assert;
+//import org.apache.commons.io.FileUtils;
+//import org.junit.After;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -13,7 +13,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.interactions.touch.DownAction;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.security.Credentials;
+//import org.openqa.selenium.security.Credentials;
 import org.openqa.selenium.support.ThreadGuard;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import static junit.framework.TestCase.assertEquals;
+//import static junit.framework.TestCase.assertEquals;
 import org.openqa.selenium.firefox.FirefoxProfile;
 
 public class WebAutomation extends Thread{
@@ -43,20 +43,21 @@ public class WebAutomation extends Thread{
         //Launching firefox Browser
 //        System.setProperty("webdriver.gecko.driver","D:\\webdriver/geckodriver.exe");
 
-//        //Create profile:
-//        FirefoxProfile profile = new FirefoxProfile();
-//        //Set location to store file after downloading
-//        profile.setPreference("browser.download.dir", "D:\\Download");
-//        profile.setPreference("browser.download.folderList", 2);
-//
-//        //set preferences to not show file download confirmation dialogue
-//        profile.setPreference("browser.download.manager.showWhenStarting", false);
-//        profile.setPreference("browser.helperApps.neverAsk.openFile", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
-//        profile.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
-//        profile.setPreference("pdfjs.disabled", true);
-////
-////
-//        FirefoxDriver driver = new FirefoxDriver(profile);
+//        //Create FirefoxOption:
+        //Download a file in ff
+//        FirefoxOptions option = new FirefoxOptions();
+//        //Set the location after downloading the file
+//        option.addPreference("browser.download.dir", "D:\\sweety");
+//        option.addPreference("browser.download.folderList", 2);
+//        //Set preference not to show file download confirmation dialogue
+//        option.addPreference("browser.download.manager.showWhenStarting", false);
+//        option.addPreference("browser.helperApps.neverAsk.openFile", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
+//        option.addPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
+//        option.addPreference("pdfjs.disabled", true);
+//        System.setProperty("webdriver.gecko.driver", "D:\\webdriver\\geckodriver.exe");
+//        driver = new FirefoxDriver(option);
+//        driver.get("https://filehippo.com/download_opera/");
+//        driver.findElement(By.cssSelector("a.long.download-button")).click();
 
         //Launching chrome browser
 //        System.setProperty("webdriver.chrome.driver", "D:\\webdriver/chromedriver.exe");
@@ -271,36 +272,22 @@ public class WebAutomation extends Thread{
 //            System.out.println("File has not downloaded");
 //        }
 
-      //SSL certificate error - http://www.testinginterviewquestion.com/2014/05/how-to-handle-ssl-certificate-error-on.html
-        //Handled SSL Certificate error in chrome -- deprecated after selenium 3.5.3 -- need to check again
-//        DesiredCapabilities capabilities = DesiredCapabilities.chrome();
-//        capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
-//        WebDriver driver = new ChromeDriver(capabilities);
-
-//       //Handle SSL Certificate error in ff
-
-//        DesiredCapabilities capabilities = new DesiredCapabilities(); //-- deprecated after selenium -3.5.3
-//        capabilities.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true); //Now ACCEPT_SSL_CERT has deprecated
-//        System.setProperty("webdriver.gecko.driver","D:\\webdriver/geckodriver.exe");
-//        WebDriver driver1 = new FirefoxDriver(capabilities);
-//        driver1.manage().window().maximize();
-////        driver1.get("https://www.cacert.org/");
-//        driver1.get("http://192.168.32.193:8080/crateandbarrel");
-
-//        DesiredCapabilities caps = new DesiredCapabilities(); //-- -- deprecated after selenium -3.5.3
-////        caps.setCapability("unexpectedAlertBehaviour", "accept");
-////        caps.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
-////        System.setProperty("webdriver.ie.driver", IEDriverPath);
-////        driver = new org.openqa.selenium.ie.InternetExplorerDriver(caps);
-
-//        Working fine
-//        FirefoxOptions co = new FirefoxOptions();
-//                    co.setCapability("acceptInsecureCerts", true);
-//                    System.setProperty("webdriver.gecko.driver", getFirefoxDriver());
-//                    driver = new FirefoxDriver(co);
-
-
-
+      //SSL certificate error - https://www.cacert.org/
+        //Handled SSL Certificate error in chrome --
+//       ChromeOptions option = new ChromeOptions();
+////        option.setCapability("acceptInsecureCerts", true);
+////        //or
+//////        option.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
+////        driver = new ChromeDriver(option);
+////        System.setProperty("webdriver.chrome.driver", "D:\\webdriver\\chromedriver.exe");
+////        driver.get("https://www.cacert.org/");
+////
+////        //firefox
+////        FirefoxOptions option1 = new FirefoxOptions();
+////        option1.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
+////        System.setProperty("webdriver.gecko.driver", "D:\\webdriver\\geckodriver.exe");
+////        driver = new FirefoxDriver(option1);
+////        driver.get("https://www.cacert.org/");
 
 //
 //

@@ -35,3 +35,6 @@ public class StringEx {
 
     }
 }
+
+//https://www.java-examples.com/java-string-examples -- need to check
+//Shortest and the Longest word in a Sentence [Method 1] -- http://www.guideforschool.com/category/string-related-programs/page/2/

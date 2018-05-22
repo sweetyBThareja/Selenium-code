@@ -1,13 +1,14 @@
 package com.java;
 
 
-import org.apache.commons.io.FileUtils;
+//import org.apache.commons.io.FileUtils;
 import org.apache.http.HttpConnection;
-import org.junit.Assert;
+//import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.CapabilityType;
@@ -30,7 +31,7 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 
-import static org.junit.Assert.assertEquals;
+//import static org.junit.Assert.assertEquals;
 
 public class WebAutomationA {
     //Launching a browser:
@@ -41,20 +42,21 @@ public class WebAutomationA {
 //        capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
 //        WebDriver driver = new ChromeDriver(capabilities);
         WebDriver driver = new ChromeDriver();
-//        FirefoxProfile profile = new FirefoxProfile();
-//        profile.setPreference("javascript.enabled", false);
-//        File file = new File("");
-//        profile.addExtension(file);
-//        System.setProperty("webdriver.gecko.driver", "D:\\webdriver/geckodriver.exe");
-
+//
+        //Download a file in ff
+//        FirefoxOptions option = new FirefoxOptions();
 //        //Set the location after downloading the file
-//        profile.setPreference("browser.download.dir", "D:\\download");
-//        profile.setPreference("browser.download.folderList", 2);
+//        option.addPreference("browser.download.dir", "D:\\sweety");
+//        option.addPreference("browser.download.folderList", 2);
 //        //Set preference not to show file download confirmation dialogue
-//        profile.setPreference("browser.download.manager.showWhenStarting", false);
-//        profile.setPreference("browser.helperApps.neverAsk.openFile", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
-//        profile.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
-//        profile.setPreference("pdfjs.disabled", true);
+//        option.addPreference("browser.download.manager.showWhenStarting", false);
+//        option.addPreference("browser.helperApps.neverAsk.openFile", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
+//        option.addPreference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;" + "text/csv;" + "application/xml;" + "text/csv;" + "application/zip;" + "application/pdf;" + "application/octet-stream;");
+//        option.addPreference("pdfjs.disabled", true);
+//        System.setProperty("webdriver.gecko.driver", "D:\\webdriver\\geckodriver.exe");
+//        driver = new FirefoxDriver(option);
+//        driver.get("https://filehippo.com/download_opera/");
+//        driver.findElement(By.cssSelector("a.long.download-button")).click();
 
         //Add extensions in chrome
 //        ChromeOptions option = new ChromeOptions();

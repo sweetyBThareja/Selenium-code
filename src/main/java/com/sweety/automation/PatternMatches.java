@@ -1,6 +1,6 @@
 package com.sweety.automation;
 
-import org.junit.Assert;
+//import org.junit.Assert;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -23,7 +23,7 @@ public class PatternMatches {
         Matcher matcher = pattern.matcher("Your Phone Number must be entered in this format: 800-555-1212 and");
         System.out.println(matcher.matches());
         System.out.println(str1.contains(str));
-        Assert.assertTrue("Error - Env: Your phone number is not in correct format", str1.contains(str));
+//        Assert.assertTrue("Error - Env: Your phone number is not in correct format", str1.contains(str));
 
     }
 }
