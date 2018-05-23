@@ -2,64 +2,204 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfcb5929-8fe0-4212-834e-9f9feed5972e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Practise/Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/ProgramEssential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/ProgramEssential.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/WebAutomationA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/WebAutomationA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/WebAutomationA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/WebAutomationA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/PatternMatches.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/PatternMatches.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Practise/Automation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/AI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/AInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/Ad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/ArrayRelated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/BI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/BaseA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/Bd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/InheritanceRelated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/NewInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/ProgramEssential.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/SingleInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/WebAutomationA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/YetMoreInitializationOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/aa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/automation/AProtected.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/automation/APublic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/ba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/JavaTopics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/SeleniumAutomation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/yw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/A$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AAddArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ABase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ABinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ABreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ADateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ADoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AEncapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AEnums$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AEnums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AExceptionPropagation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AFirstInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ALambdaExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ALinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AListItearorInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ALocalInner$1LocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ALocalInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMaxminum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMemberInner$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMemberInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMinimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AModifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMultiDimension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AMultiLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ANestedInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ANestedTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/APassByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/APredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/APrivate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASearchRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASearching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASecondInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASingleDimesion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASingleInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStaticNested$NestedStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStaticNested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStringBufferMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStringConcatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AStringPrograms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ASwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ATernary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AThrowKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AThrowsKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AToStringMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AWithoutMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Abst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Addable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Afinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AnonymousInner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AnonymousInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AutoUnBoxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/BAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/BB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/CC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ComparableA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ComparatorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/DD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/DefaultInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/DefaultMultiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Detail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Eatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Employee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ExceptionHandlingA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ExceptionHandlingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ExceptionHandlingMethodOveriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/BufferedReaderA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/BufferedWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/CharArrayReaderA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/CharArrayWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/ConsoleA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/CustomFilterWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/DataOutputInputStreamA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/DataOutputStreamA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/FileOutputInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/FileReaderA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/FileWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/FilterWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/InputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/PrintStreamA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/PrintWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/PushbackInputStreamA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/ReaderA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/ScannerA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/SequenceInputStreamA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/StringReaderA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/StringWriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/IOA/WriterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/InitializationOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/LambdaInCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/MethodOverloadingAutoboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/DaemonThreadEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/DirectRunMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/JoinMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/NamingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/PriorityThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/RuntimeEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/ShutdownHookEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/SleepMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/ThreadExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/ThreadExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/ThreadGroupEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Multithreading/multiTaskingEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Notepad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/OldInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/PatternMatches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ProgramsArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Questions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/RestfulService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Sayable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/SayableP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ScreenShot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/SeleniumGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Showable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StreamEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/DuplicateChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/DuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/FirstRepeatedNonRepeated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/LongestSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/MostRepeatedWordFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/OccuranceOfChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/OccurrenceOfEachChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/PermutationOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RemoveWhiteSpaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RepeatedWordsInFile$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RepeatedWordsInFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/StringEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/StringImmutable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/SwapStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/WordsCharsLinesInFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/totalChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/Subtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ThisKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/VariableAgrs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/VectorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class" beforeDir="false" />
     </list>
     <ignored path="Automation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,12 +227,52 @@
     <favorites_list name="Automation" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WebAutomation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java">
+    <leaf>
+      <file leaf-file-name="JDBCSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="442" column="11" selection-start-line="442" selection-start-column="6" selection-end-line="442" selection-end-column="11" />
+            <state relative-caret-position="267">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AWhile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChromeDriver.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.10.0/selenium-chrome-driver-3.10.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <folding>
+                <element signature="e#1419#1420#0" expanded="true" />
+                <element signature="e#1504#1505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenShot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,26 +280,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Automation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Practise/Automation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1338">
-              <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="731">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -127,43 +292,8 @@
       <file leaf-file-name="Automation.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Automation.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProgramEssential.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/ProgramEssential.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternMatches.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-184">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="493">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -192,8 +322,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/PushbackInputStreamA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/StringWriterA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/StringReaderA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/FilterWriterA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/IOA/ScannerA.java" />
@@ -242,7 +370,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Practise/Automation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" />
         <option value="$PROJECT_DIR$/Automation.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Main.java" />
       </list>
     </option>
   </component>
@@ -273,23 +403,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Automation" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Automation" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
@@ -326,11 +450,27 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="automation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Automation" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Automation" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,9 +501,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Automation">
+  <component name="RunManager" selected="Application.AWhile">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="AWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.AWhile" />
+      <module name="Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sweety.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Automation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Practise.Automation" />
@@ -376,24 +527,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MostRepeatedWordFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.MostRepeatedWordFile" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.Main" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RepeatedWordsInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.RepeatedWordsInFile" />
-      <module name="Automation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
+          <option name="PATTERN" value="com.sweety.automation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -678,19 +818,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MostRepeatedWordFile" />
-      <item itemvalue="Application.RepeatedWordsInFile" />
       <item itemvalue="Application.StringImmutable" />
       <item itemvalue="Application.Automation" />
       <item itemvalue="Application.StreamEx" />
+      <item itemvalue="Application.AWhile" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AWhile" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Automation" />
         <item itemvalue="Application.StreamEx" />
         <item itemvalue="Application.StringImmutable" />
-        <item itemvalue="Application.MostRepeatedWordFile" />
-        <item itemvalue="Application.RepeatedWordsInFile" />
       </list>
     </recent_temporary>
   </component>
@@ -731,11 +871,11 @@
       <window_info id="Palette&#9;" order="2" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50682855" side_tool="true" weight="0.27966103" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32928678" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" visible="true" weight="0.27966103" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.27966103" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37329286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37936267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962063" />
       <window_info id="UI Designer" order="4" />
@@ -752,25 +892,25 @@
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32928678" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.27966103" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35128984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30847457" />
       <window_info anchor="right" id="Designer" order="6" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3996479" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32928678" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50682855" side_tool="true" weight="0.27966103" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30847457" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32928678" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
@@ -796,76 +936,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/RuntimeEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DaemonThreadEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4556">
-          <caret line="274" column="44" lean-forward="true" selection-start-line="274" selection-start-column="44" selection-end-line="274" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="553" column="13" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar!/com/sun/jna/Platform.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/SeleniumGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/totalChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1041,16 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.10.0/selenium-firefox-driver-3.10.0.jar!/org/openqa/selenium/firefox/FirefoxOptions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1069,13 +1129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.10.0/selenium-chrome-driver-3.10.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1149,13 +1202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automation.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1166,10 +1212,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="731">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.10.0/selenium-chrome-driver-3.10.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1504#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.10.0/selenium-api-3.10.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
