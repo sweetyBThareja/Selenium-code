@@ -38,6 +38,11 @@ public class ArrayRelated {
 
             }
         }
+        for(int i = 0; i< arr.length; i++){
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
+        System.out.println("2nd max : " + arr[arr.length-2]);
         //Bubble sort:
 //        for(int i = 0; i <arr.length; i++){
 //            for(int j = 1; j < arr.length-i; j++){

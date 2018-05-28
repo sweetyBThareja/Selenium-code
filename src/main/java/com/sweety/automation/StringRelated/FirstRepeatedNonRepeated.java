@@ -15,7 +15,7 @@ public class FirstRepeatedNonRepeated {
         Character rptchar = null;
         for (char c : charArr) {
             if (charMapCount.containsKey(c)) {
-                charMapCount.put(c, charMapCount.get(c));
+                charMapCount.put(c, charMapCount.get(c)+1);
             } else {
                 charMapCount.put(c, 1);
             }

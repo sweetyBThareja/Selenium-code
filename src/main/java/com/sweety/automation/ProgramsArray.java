@@ -16,9 +16,10 @@ public class ProgramsArray {
    static int k;
 //    //Sorting:
 //    //numeric array
-//    public static void main(String args[]) {
+    public static void main(String args[]) {
 //        int[] a = {23, 4, 53, 12, 49};
-//        int temp = 0;
+//        Arrays.sort(a);
+////        int temp = 0;
 //        int last = a.length-1;
 //
 //                for (int i = 0; i < a.length; i++) {
@@ -45,32 +46,32 @@ public class ProgramsArray {
 //        }
 //
 //        }
-//        int result = binarySearch(a, 0, last, 23);
+//        int result = binarySearch(a, 0, last, 12);
 //        //part of binary search recursion
 //        if(result == -1){
 //            System.out.println("Element not found");
 //        }else{
 //            System.out.println("Element found at index " + result);
 //        }
-//    }
+
 //
 ////        //binary search:
-////        public static void binarySearch(int[] a, int first, int last, int key) {
-////            int mid = (first + last) / 2;
-////            while(first <= last) {
-////                if(a[mid] < key) {
-////                    first = mid + 1;
-////                } else if(a[mid] == key) {
-////                    System.out.println("Key found at position " + mid);
-////                    break;
-////                } else {
-////                    last = mid - 1;
-////                }
-////
-////                mid = (first+last)/2;
-////            }
-////
-////        }
+////        public static int binarySearch(int []a, int first, int last, int key){
+//        int mid = (first + last)/2;
+//        while(first <=last){
+//            if(a[mid] == key){
+//                System.out.println("key found at index " + mid);
+//                break;
+//            }else if(a[mid] < key){
+//                first = mid +1;
+//            }else{
+//                last = mid - 1;
+//            }
+//
+//            mid = (first + last)/2;
+//        }
+//        return mid;
+//   }
 //
 //    //recursion:
 //    public static int binarySearch(int[] a, int first, int last, int key) {
@@ -81,9 +82,9 @@ public class ProgramsArray {
 //            }
 //
 //            if(a[mid] < key){
-//              return binarySearch(a, mid+1, last, 23);
+//              return binarySearch(a, mid+1, last, 12);
 //            }else{
-//                return binarySearch(a, 0, mid-1, 23);
+//                return binarySearch(a, 0, mid-1, 12);
 //            }
 //        }
 //
@@ -123,7 +124,7 @@ public class ProgramsArray {
 
 
 //    //reverse an array
-    public static void main(String args[]){
+//    public static void main(String args[]){
 //        int t;
 //        int a = 0;
 //        int b =0;
@@ -193,6 +194,20 @@ public class ProgramsArray {
 //            System.out.print(c[l] + " ");
 //        }
 
+    //or
+    //Merge two array:
+//    int [] b = {21, 45, 76, 34,87};
+//    int c[] = new int[a.length + b.length];
+//        System.arraycopy(a, 0, c, 0, a.length);
+//        for(int i=0; i< c.length; i++){
+//        System.out.print(c[i] + " ");
+//    }
+//        System.out.println();
+//        System.arraycopy(b, 0, c, a.length, c.length-a.length);
+//        for(int i=0; i< c.length; i++){
+//        System.out.print(c[i] + " ");
+//    }
+
 //        //fill an array:
 //        int a[] = new int[6];
 //        Arrays.fill(a, 20); //Arrays.fill(arrayname,value)
@@ -232,7 +247,25 @@ public class ProgramsArray {
 //        }
     //From Array:
 // We cannot alter the size of an array , after the removal, the last and second last element in the array will exist twice
-//        int a[] = {1, 4, 2, 6, 8, 3, 9, 5};
+//      int [] arr = {12,1,32,4,5,67};
+//        int key = 32;
+//        int k = 2;
+//        int [] ar = new int[arr.length-1];
+//        for(int i=0; i<arr.length; i++){
+//            if(arr[i] == key){
+//            k = i;
+//        }}
+//        System.arraycopy(arr, 0, ar, 0, ar.length-k-1);
+//        for(int i=0; i< ar.length; i++){
+//            System.out.print(ar[i] + " ");
+//        }
+//        System.out.println();
+//        System.arraycopy(arr, k+1, ar, k, ar.length-k);
+//        for(int i=0; i< ar.length; i++){
+//            System.out.print(ar[i] + " ");
+//        }
+// or
+// int a[] = {1, 4, 2, 6, 8, 3, 9, 5};
 //        int key = 6;
 //
 //        for (int i = 0; i < a.length; i++) {
@@ -286,9 +319,10 @@ public class ProgramsArray {
 //         }
 //
 //        }
+// }
 
 
-//        //Same elements in array:
+//        //Same/duplicate elements in array:
 //        int a[] = {1,2,4,6,3,2,4};
 //        Arrays.sort(a);
 //        for(int i : a){
@@ -372,6 +406,7 @@ public class ProgramsArray {
 //        for(int j =0 ; j<count; j++){
 //            System.out.print(temp[j] + " ");
 //        }
+ }
 
         //Array to ArrayList and ArrayList to array:
 //        int [] a = {2,34,12,14,34,56};
@@ -399,23 +434,24 @@ public class ProgramsArray {
 //        }
 
 
-        //Move all the zeros at the end of array: In progress
-//        int [] a = {1,4,0,2,7,0,5,6,0};
-//        Arrays.sort(a);
-//        for(int i : a){
-//            System.out.print(i + " ");
-//        }
-//        int temp = 0;
-//        int length = a.length;
-//        for(int i = 0; i<a.length; i++){
-//            if(a[i] == 0){
-//                temp = a[i];
-//                a[i] = a[i+1];
+        //Move all the zeros at the end of array: Same as sorting instead of a[i] > a[j], use a[i] == 0
+//        int a [] = {1,2,0,3,0,12,0};
+//        int temp;
+//        for(int i = 0; i < a.length; i++){
+//            for(int j = i+1; j <a.length; j++){
+//                if(a[i] == 0){
+//                    temp = a[i];
+//                    a[i] = a[j];
+//                    a[j] = temp;
+//                }
 //            }
 //        }
+//        for(int i : a) {
+//            System.out.print(i + " ");
+//        }
 
 
-    }
+//    }
 }
 
 

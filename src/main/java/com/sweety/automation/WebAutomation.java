@@ -35,6 +35,7 @@ import java.util.concurrent.TimeUnit;
 
 //import static junit.framework.TestCase.assertEquals;
 import org.openqa.selenium.firefox.FirefoxProfile;
+import sun.java2d.cmm.Profile;
 
 public class WebAutomation extends Thread{
 
@@ -107,6 +108,7 @@ public class WebAutomation extends Thread{
         for(WebElement option : drpCountry.getOptions())
             System.out.println((option.getText()); */
 
+// click on random options --  need to do:
 
         // Select multiple values from drop down
         //Multi-select:
@@ -188,12 +190,12 @@ public class WebAutomation extends Thread{
 //        driver.switchTo().window(parent); //return to parent window
 
 
-       /* //Alert
-        driver.get("https://www.irctc.co.in/eticketing/loginHome.jsf");
-        driver.findElement(By.id("loginbutton")).click();
-        Alert alert = driver.switchTo().alert();
-        System.out.println(alert.getText());
-        alert.accept(); */
+//       ///Alert
+//        driver.get("https://www.irctc.co.in/eticketing/loginHome.jsf");
+//        driver.findElement(By.id("loginbutton")).click();
+//        Alert alert = driver.switchTo().alert();
+//        System.out.println(alert.getText());
+//        alert.accept();
 
         // driver.get("http://artoftesting.com/sampleSiteForSelenium.html");
         // Actions action = new Actions(driver);
@@ -392,7 +394,12 @@ public class WebAutomation extends Thread{
 //        System.setProperty("webdriver.gecko.driver", "D:\\webdriver/geckodriver.exe");
 //        FirefoxProfile profile = new FirefoxProfile();
 //        profile.addExtension(new File("D:\\Momentum_v0.101.2.crx"));
-//        WebDriver driver1 = new FirefoxDriver(profile);
+//        FirefoxOptions option = new FirefoxOptions();
+//        option.setProfile(profile);
+//        WebDriver driver1 = new FirefoxDriver(option);
+
+
+
 
         //chrome: working fine
 //        ChromeOptions option = new ChromeOptions();
@@ -410,7 +417,7 @@ public class WebAutomation extends Thread{
 
 //    public void dbTesting() throws SQLException{
 //        //DB Testing
-//        //url in the format: "jdbs:/mysql/ipaddress:portnumber/db_name:
+//        //url in the format: "jdbc:/mysql/ipaddress:portnumber/db_name:
 //        String url = "jdbc:mysql://localhost:3036/emp";
 //        String userName = "root";
 //        String password = "password";
