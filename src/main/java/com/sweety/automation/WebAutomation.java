@@ -383,11 +383,25 @@ public class WebAutomation extends Thread{
 
 
         //Enable and disable java script in ff:
-        //disable
+        //disable -- deprecated
 //        FirefoxProfile profile = new FirefoxProfile();
 //        profile.setPreference("javascript.enabled", false);
-//        WebDriver driver = new FirefoxDriver(profile);
-
+        //or -- but not working need to check
+        FirefoxOptions option = new FirefoxOptions();
+        option.addPreference("javascript.enabled", false);
+        WebDriver driver = new FirefoxDriver(option);
+ // or -- in-progress
+//        FirefoxOptions option = new FirefoxOptions();
+//        option.addPreference("javascript.enabled", false);
+//        System.setProperty("webdriver.gecko.driver", "D:\\webdriver/geckodriver.exe");
+//        WebDriver driver = new FirefoxDriver(option);
+//        driver.get("http://www.google.com");
+ // in chrome -- not working
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--disable-javascript");
+//        options.addArguments("--disable-javascript-i18n-api");
+//        WebDriver driver = new ChromeDriver(options);
+//        driver.get("http://www.google.com");
 
         //Add extension/addon in ff and chrome:
         //Firefox -- not working
@@ -450,7 +464,7 @@ public class WebAutomation extends Thread{
     //xpath
     //URL: https://www.guru99.com/
 
-    //URL: http://demo.guru99.com/v1/
+//    URL: http://demo.guru99.com/v1/
 //    1)//input[@name='uid']
 //    2)//input[@type='text']
 //    3)//label[@id='message23']
@@ -458,91 +472,91 @@ public class WebAutomation extends Thread{
 //    5)//*[@class='barone']
 //    6)//a[@href='http://demo.guru99.com/']
 //    7)//img[@src='//cdn.guru99.com/images/home/java.png']
-
-    //contains: used for 'type', 'text', 'name', 'value', 'id'
-    //*[contains(@type,'sub')]
-    //input[contains(@name,'btn')]
-    //b[contains(text(),'SAP')]
-   //input[contains(@value,'LOG')]
-
-
-    //Using OR & AND:
-    //input[@type='submit' or @name = 'btnLogin']
-    //*[@type='submit' and @name='btnLogin']
-
-    //Start-with:
-    //label[starts-with(@id,'message')]
-
+//
+//    contains: used for 'type', 'text', 'name', 'value', 'id'
+//    *[contains(@type,'sub')]
+//    input[contains(@name,'btn')]
+//    b[contains(text(),'SAP')]
+//   input[contains(@value,'LOG')]
+//
+//
+//    Using OR & AND:
+//    input[@type='submit' or @name = 'btnLogin']
+//    *[@type='submit' and @name='btnLogin']
+//
+//    Start-with:
+//    label[starts-with(@id,'message')]
+//
 //  Xpath Axes method : axes methods commonly used in Selenium Webdriver like child, parent, ancestor, sibling, preceding, self, etc
 //    1)Following: Selects all elements in the document of the current node( ) [ UserID input box is the current node] as shown in the below screen.
 //*[@type='text']//following::input
-    //*[@type='text']//following::input[1] -- first input value
-
+//    *[@type='text']//following::input[1] -- first input value
+//
 //    2)ancestor:The ancestor axis selects all ancestors element (grandparent, parent, etc.) of the current node
-    //input[@name='password']//ancestor::td
-
+//    input[@name='password']//ancestor::td
+//
 //    3)child: Selects all children elements of the current node
 //    URL:https://www.guru99.com/
-    //*[@id='java_technologies']/child::li
-    //*[@id='java_technologies']/child::li[1] -- for 1st list
-
+//    *[@id='java_technologies']/child::li
+//    *[@id='java_technologies']/child::li[1] -- for 1st list
+//
 //    4)preceeding: Select all nodes that come before the current node
 //    URL: http://demo.guru99.com/v1/
-
-    //*[@type='submit']//preceding::input
-    //*[@type='submit']//preceding::input[1]
-
+//
+//    *[@type='submit']//preceding::input
+//    *[@type='submit']//preceding::input[1]
+//
 //    5)Following-sibling: Select the following siblings of the context node. Siblings are at the same level of the current node
 //*[@type='submit']//following-sibling::input
-
+//
 //    6)Parent: Selects the parent of the current node
-    //*[@type='submit']//parent::td
-
+//    *[@type='submit']//parent::td
+//
 //    7)Self: Selects the current node or 'self' means it indicates the node itself
 //*[@type='password']//self::input
-
+//
 //    8)Descendant: Selects the descendants of the current node
-    //*[@id='rt-feature']//descendant::a[1]
-
-
-
+//    *[@id='rt-feature']//descendant::a[1]
+//
+//
+//
 //CSS Selectors:
-    //URL: http://demo.guru99.com/v1/
+//    URL: http://demo.guru99.com/v1/
 //  css=input[name='uid']
 // css=input[type='text']
 // css=label#message23
 //    css=input[value='RESET']
 //css=a[href='http://demo.guru99.com/']
-
+//
 //    css=div#name-and-slogan -- for id
-
+//
 //    For class we need to use dot before class value. If there is space between classname like classname you need to use dot in between space.
 //    css=ul.nav.navbar-nav
-
-    //child and sub-child
+//
+//    child and sub-child
 //    child
 //    css=td>input[name='btnLogin']
 //    sub-child
 //   css tr input[name='btnLogin']
-
+//
 //    nth-child
 //    css=ul.dropdown-menu>li:nth-child(2) OR css=ul.dropdown-menu>li:nth-of-type(3)
-
+//
 //    Sibling
 //css=input[name='btnLogin']+input
-
+//
 //    Matching substring -- starts with ^
 //    css=input[name^='btnR']
-
+//
 //    End-with $
 //    css=input[name$='Reset']
-
+//
 //    * - Contains
 //    css=input[name*='nLogin']
-
+//
 //    More than one element
 //    css=input[name='btnLogin'][value='LOGIN']
-
+//
 //    Inner Text:
 //    css=a:contains('Demo Site') -- not working now
 

@@ -1,5 +1,6 @@
 package com.sweety.automation.StringRelated;
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class RegularExp {
@@ -74,10 +75,43 @@ public class RegularExp {
 //        System.out.println("o/p is : " + sw + " book");
 
         //==============================
-        String stw = "thisisjavabooktutorial";
-        //o/p = "this is java tutorial book"
-        String se = "";
-        System.out.println(stw.replace("book", "") + "book");
+//        String stw = "thisisjavabooktutorial";
+//        //o/p = "this is java tutorial book"
+//        String se = "";
+//        System.out.println(stw.replace("book", "") + "book");
+        //========================
+
+        // using pattern with flags
+
+
+        Pattern pattern = Pattern.compile("ab", Pattern.CASE_INSENSITIVE);
+        Matcher matcher = pattern.matcher("ABcababdAb");
+        // using Matcher find(), group(), start() and end() methods
+        while(matcher.find()){
+            System.out.println("Found the text \"" + matcher.group()
+                    + "\" starting at " + matcher.start()
+                    + " index and ending at index " + matcher.end());
+        }
+
+
+        // using Pattern split() method
+        String str = "one@two#three:four$five";
+        pattern = Pattern.compile("\\W");
+        String st[] = pattern.split(str);
+        for(String s : st){
+            System.out.print(s + " ");
+        }
+
+        // using Matcher.replaceFirst() and replaceAll() methods
+        String ste = "2311234512678";
+        pattern = Pattern.compile("1*2");
+        Matcher matches = pattern.matcher(ste);
+        System.out.println(matches.replaceAll("_"));
+        System.out.println(matches.replaceFirst("_"));
+
+
+
+
 
 
  }}

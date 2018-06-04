@@ -28,8 +28,8 @@ public class Automation {
 
 
     public static void main(String args[]){
-        System.setProperty("webdriver.chrome.driver", "\\D:\\webdriver\\chromedriver.exe");
-        driver = new ChromeDriver();
+//        System.setProperty("webdriver.chrome.driver", "\\D:\\webdriver\\chromedriver.exe");
+//        driver = new ChromeDriver();
 //
 //        driver.manage().window().maximize();
 //        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -155,12 +155,16 @@ public class Automation {
         //SSL certificate error:
         //chrome:
 //        ChromeOptions option = new ChromeOptions();
-//        option.setCapability("acceptInsecureCerts", true);
+//
+////        option.setCapability("acceptInsecureCerts", true);
 //        //or
 ////        option.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
-//        driver = new ChromeDriver(option);
 //        System.setProperty("webdriver.chrome.driver", "D:\\webdriver\\chromedriver.exe");
+//        driver = new ChromeDriver(option);
+
 //        driver.get("https://www.cacert.org/");
+
+
 //
 //        //firefox
 //        FirefoxOptions option1 = new FirefoxOptions();
@@ -170,14 +174,14 @@ public class Automation {
 //        driver.get("https://www.cacert.org/");
 
         //Broken link:
-        driver.get("https://www.google.com");
-        driver.findElement(By.id("lst-ib")).sendKeys("selenium webdriver");
-        driver.findElement(By.id("lst-ib")).sendKeys(Keys.ENTER);
-        List<WebElement> list = driver.findElements(By.tagName("a"));
-        for(WebElement ele : list){
-            String link = ele.getAttribute("href");
-            brokenLink(link);
-        }
+//        driver.get("https://www.google.com");
+//        driver.findElement(By.id("lst-ib")).sendKeys("selenium webdriver");
+//        driver.findElement(By.id("lst-ib")).sendKeys(Keys.ENTER);
+//        List<WebElement> list = driver.findElements(By.tagName("a"));
+//        for(WebElement ele : list){
+//            String link = ele.getAttribute("href");
+//            brokenLink(link);
+//        }
 
 
 
