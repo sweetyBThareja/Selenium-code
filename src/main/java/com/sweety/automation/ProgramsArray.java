@@ -406,7 +406,8 @@ public class ProgramsArray {
 //        for(int j =0 ; j<count; j++){
 //            System.out.print(temp[j] + " ");
 //        }
- }
+
+    }
 
         //Array to ArrayList and ArrayList to array:
 //        int [] a = {2,34,12,14,34,56};
@@ -452,6 +453,113 @@ public class ProgramsArray {
 
 
 //    }
+
+    //Sorting -- Bubble, Insertion, Merge, Selection, Quick
+
+    //    int [] ar = {12,34,3,2,8,43,67};
+//        for(int i : ar){
+//        System.out.print(i + " ");
+//    }
+    int temp;
+    //Bubble sort:
+//        for(int i = 0; i < ar.length; i++){
+//            for(int j = 1; j< ar.length-i; j++){
+//                if(ar[j-1] > ar[j]){
+//                   temp = ar[j-1];
+//                   ar[j-1] = ar[j];
+//                   ar[j] = temp;
+//                }
+//
+//            }
+//        }
+
+    //Insertion sort:
+
+//        for (int i = 1; i < ar.length; i++) {
+//            for(int j = i ; j > 0 ; j--){
+//                if(ar[j] < ar[j-1]){
+//                    temp = ar[j];
+//                    ar[j] = ar[j-1];
+//                    ar[j-1] = temp;
+//                }
+//            }
+//        }
+
+    //Selection sort:
+//        for (int i = 0; i < ar.length; i++) {
+//            for (int j = i + 1; j < ar.length; j++) {
+//                    if (ar[i] > ar[j]) {
+//                    temp = ar[i];
+//                    ar[i] = ar[j];
+//                    ar[j] = temp;
+//                }
+//            }
+//        }
+
+    //Quick sort:
+//        quickSort(ar, 0, ar.length-1);
+
+    //Merge sort:
+
+
+
+//        System.out.println();
+//
+//        for(int s : ar){
+//        System.out.print(s + " ");
+//    }
+//}
+
+
+    public static void quickSort(int[] arr, int low, int high) {
+        if (arr == null || arr.length == 0)
+            return;
+
+        if (low >= high)
+            return;
+
+        // pick the pivot
+        int middle = low + (high - low) / 2;
+        int pivot = arr[middle];
+
+        // make left < pivot and right > pivot
+        int i = low, j = high;
+        while (i <= j) {
+            while (arr[i] < pivot) {
+                i++;
+            }
+
+            while (arr[j] > pivot) {
+                j--;
+            }
+
+            if (i <= j) {
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                i++;
+                j--;
+            }
+        }
+
+        // recursively sort two sub parts
+        if (low < j)
+            quickSort(arr, low, j);
+
+        if (high > i)
+            quickSort(arr, i, high);
+    }
+
+    //In-progress
+    public static void mergeSort(int [] list, int low, int high){
+        if(low == high){
+            return;
+        }else{
+            int mid = (low + high)/2;
+            mergeSort(list, low, mid);
+            mergeSort(list, mid+1, high);
+        }
+    }
 }
 
 
