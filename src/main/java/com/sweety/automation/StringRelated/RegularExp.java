@@ -109,6 +109,21 @@ public class RegularExp {
         System.out.println(matches.replaceAll("_"));
         System.out.println(matches.replaceFirst("_"));
 
+        //a1@b1$ = 1a@1b$
+        String strr = "a1@b1$";
+        char [] ch = strr.toCharArray();
+        for(int i = 0; i< ch.length; i++){
+            if(String.valueOf(strr.charAt(i)).matches("[a-zA-Z]")){
+                if(String.valueOf(strr.charAt(i+1)).matches("\\d")){
+                    char temp;
+                    temp = ch[i];
+                    ch[i] = ch[i+1];
+                    ch[i+1] = temp;
+                }
+            }
+        }
+        System.out.println(new String(ch));
+
 
 
 

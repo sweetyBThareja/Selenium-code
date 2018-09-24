@@ -8,8 +8,8 @@ import java.util.HashSet;
 
 public class LongestSubString {
     public static void main(String arg[]){
-        System.out.println(longestSubstring("javaconceptoftheday"));
-        System.out.println(longestSubstring("ABDEFGABEF"));
+        //System.out.println(longestSubstring("javaconceptoftheday"));
+        //System.out.println(longestSubstring("ABDEFGABEF"));
         longestSubstirngHashMap("javaconceptoftheday");
 
     }

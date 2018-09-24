@@ -286,17 +286,48 @@ public class JavaBasics {
 //        }
 
 //String related:
-        duplicateWords("Bread butter and bread");
+        //duplicateWords("Bread butter and bread");
 
-        String strr = "Bread butter and bread";
-        int count = 1;
-        for(int i = 0; i < strr.length(); i++){
-            if((strr.charAt(i)== ' ') && (strr.charAt(i + 1) != ' ')){
-                count++;
-            }
-        }
-      System.out.println("Number of words in a string " + count);
+//        String strr = "Bread butter and bread";
+//        int count = 1;
+//        for(int i = 0; i < strr.length(); i++){
+//            if((strr.charAt(i)== ' ') && (strr.charAt(i + 1) != ' ')){
+//                count++;
+//            }
+//        }
+//      System.out.println("Number of words in a string " + count);
 //
+        int num = 0;
+
+        int ar[] = new int[3];
+        int count3 = 0;
+        int m = 0;
+        for(int i=123; i<124; i++){
+           int  n = i;
+           m = i;
+            while(n>0) {
+                num = n % 10;
+                System.out.println("remainder "+ num);
+                n = n / 10;
+                System.out.println("Remaining number: " + n);
+                ar[count3++] = num;
+            }}
+
+
+//        System.out.println("Elements in Array:");
+//        for(int i4 = 0; i4<3; i4++){
+//            System.out.print(ar[i4] + " ");
+//        }
+            for (int i2 = 0; i2 < 3; i2++) {
+                for (int j = 1; j < i2+1; j++) {
+                    if (ar[i2] > ar[j]) {
+                        System.out.println(m + " Number is valuable");
+                    } else {
+                        System.out.println(m + " Number is not valuable");
+                    }
+                }
+            }
+
 
     }
 

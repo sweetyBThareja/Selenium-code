@@ -324,18 +324,17 @@ public class ProgramsArray {
 
 //        //Same/duplicate elements in array:
 //        int a[] = {1,2,4,6,3,2,4};
-//        Arrays.sort(a);
-//        for(int i : a){
-//            System.out.print(i + " ");
-//        }
-//        System.out.println("Common elements in array: ");
-//        for(int i = 0; i<a.length; i++){
-//            for(int j = i+1; j<a.length; j++) {
-//                if (a[i] == a[j]) {
-//                    System.out.println(a[i]);
-//                }
-//            }
-//        }
+////        for(int i : a){
+////            System.out.print(i + " ");
+////        }
+////        System.out.println("Common elements in array: ");
+////        for(int i = 0; i<a.length; i++){
+////            for(int j = i+1; j<a.length; j++) {
+////                if (a[i] == a[j]) {
+////                    System.out.println(a[i]);
+////                }
+////            }
+////        }
 
 //        //Find an element in array:
 //        int a [] = {1,2,3,5,6,8,9};
@@ -387,7 +386,7 @@ public class ProgramsArray {
 //            }
   //      }
 
-////Remove duplicate element from array:
+////Remove duplicate element from array: and showing only duplicate element
 //        int a [] = {23,22,45,32,54,11,85,10,22,54};
 //        Arrays.sort(a);
 //        System.out.println("After sorting : ");
@@ -395,16 +394,24 @@ public class ProgramsArray {
 //            System.out.print(i + " ");
 //        }
 //        int temp [] = new int[a.length];
+//        int temp1[] = new int[a.length];
 //        int count = 0;
+//        int count1 = 0;
 //        for(int i = 0; i<a.length-1; i++){
 //            if(a[i]!=a[i+1]){
 //                temp[count++] = a[i];
+//            }if(a[i] == a[i+1]){
+//                temp1[count1++] = a[i];
 //            }
 //        }
 //        temp[count++] = a[a.length-1];
 //        System.out.println();
 //        for(int j =0 ; j<count; j++){
 //            System.out.print(temp[j] + " ");
+//        }
+//        System.out.println();
+//        for(int j =0 ; j<count1; j++){
+//            System.out.print(temp1[j] + " ");
 //        }
 
     }

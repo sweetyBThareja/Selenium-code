@@ -27,7 +27,5 @@ public class DuplicateChar {
                 System.out.println(ch + " : " +charCountMap.get(ch));
             }
         }
-
-
     }
 }

@@ -108,7 +108,12 @@ public class WebAutomation extends Thread{
         for(WebElement option : drpCountry.getOptions())
             System.out.println((option.getText()); */
 
-// click on random options --  need to do:
+// click on random options:
+//        List<WebElement> options = drpCountry.getOptions();
+//        options.get(new Random().nextInt(options.size()-1)).click();
+
+        //or
+        //options.selectByIndex(new Random().nextInt(options.size()-1));
 
         // Select multiple values from drop down
         //Multi-select:
@@ -163,6 +168,15 @@ public class WebAutomation extends Thread{
 //        exe.executeScript("scrollTo(400,400)");
 //        driver.findElement(By.cssSelector("input.Automation")).click();
 
+        //Javascript click:
+//        WebElement element = driver.findElement(By.id("gbqfd"));
+//        JavascriptExecutor executor = (JavascriptExecutor)driver;
+//        executor.executeScript("arguments[0].click();", element);
+
+//        or
+//
+//        jse.executeScript("document.getElementById('gbqfb').click();");
+
         //Radio button
 //        driver.findElement(By.id("male")).click();
 
@@ -178,7 +192,7 @@ public class WebAutomation extends Thread{
 //        tl.equals("NetBanking");
 //        // driver.findElement(By.cssSelector("a.btn.btn-default.redBtn")).click();
 //        Set<String> windows = driver.getWindowHandles();
-//        Iterator<String> ite = windows.iterator();
+//        Iterator<String> vg5 = windows.iterator();
 //        while (ite.hasNext()) {
 //            String childWindow = ite.next();
 //            if(!childWindow.equals(parent)){
@@ -327,6 +341,7 @@ public class WebAutomation extends Thread{
 //        for(int i = 0; i < size ; i++){
 //            driver.switchTo().frame(i);
 //        }
+    //    driver.switchTo().parentFrame();
 //        driver.switchTo().defaultContent();
 
         //Typed text of the text box
@@ -560,7 +575,8 @@ public class WebAutomation extends Thread{
 //    Inner Text:
 //    css=a:contains('Demo Site') -- not working now
 
-
+    //Web table: https://makeseleniumeasy.com/2017/07/14/how-to-handle-a-web-table-in-selenium-webdriver/ -- but answer is not correct
+    //https://www.guru99.com/handling-dynamic-selenium-webdriver.html -- Correct one
 //Grid -- done
 
 

@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfcb5929-8fe0-4212-834e-9f9feed5972e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Practise/AutomationPractise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Practise/JavaPractise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/JavaBasicsPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Practise/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Practise/JavaBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/LongestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/LongestSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RegularExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RegularExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Practise/Automation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Practise/Automation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Practise/JavaBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Practise/JavaBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/program/SeleniumAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/program/SeleniumAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/AException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/AThrowKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/AThrowKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/ProgramsArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/ProgramsArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/DuplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/DuplicateChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/LongestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/LongestSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/MostRepeatedWordFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/MostRepeatedWordFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RegularExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RegularExp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RepeatedWordsInFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/RepeatedWordsInFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/WordsCharsLinesInFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/StringRelated/WordsCharsLinesInFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sweety/automation/WebAutomation.class" afterDir="false" />
     </list>
     <ignored path="Automation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,20 +55,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WebAutomation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java">
+      <file leaf-file-name="JDBCSingleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1737">
-              <caret line="478" column="31" selection-start-line="478" selection-start-column="31" selection-end-line="478" selection-end-column="31" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgramsArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java">
+      <file leaf-file-name="Polymorphism.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Polymorphism.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="561" column="5" selection-start-line="561" selection-start-column="5" selection-end-line="561" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Questions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Questions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestfulService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/RestfulService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenShot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumGrid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/SeleniumGrid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThisKey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ThisKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VariableAgrs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VariableAgrs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VectorA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,6 +166,12 @@
       <find>ssl</find>
       <find>chromeO</find>
       <find>read</find>
+      <find>assertEquals</find>
+      <find>table</find>
+      <find>javascr</find>
+      <find>/2</find>
+      <find>remove du</find>
+      <find>java</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,11 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/SleepMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/JoinMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DirectRunMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/NamingThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/PriorityThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/DaemonThreadEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Multithreading/ThreadGroupEx.java" />
@@ -95,10 +192,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/SeleniumGrid.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Anagram.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/LongestSubString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/SwapStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/PermutationOfString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/WordsCharsLinesInFile.java" />
@@ -111,24 +206,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/WebAutomationA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" />
         <option value="$PROJECT_DIR$/Automation.iml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Practise/JavaBasics.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/FirstRepeatedNonRepeated.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringToDate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/ArrayRelated.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Date.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/MultipleString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RegularExp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringPrgm1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/SimpleDateString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DateRelated.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Practise/Automation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Practise/AutomationPractise1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RegularExp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Practise/JavaPractise1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Lambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/LongestSubString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Practise/JavaBasics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sweety/automation/JavaBasicsPrograms.java" />
       </list>
     </option>
   </component>
@@ -144,13 +246,25 @@
           <item name="automation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="automation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="automation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1332" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +273,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Automation" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Automation" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +324,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
@@ -210,38 +334,139 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="IOA" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Automation" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Automation" type="616d4139:PackageViewModuleNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Multithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="AEnums.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="AInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="ALambdaExpression.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="ANestedInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="ComparableA.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="ComparatorA.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultMultiple.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Polymorphism.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamEx.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/SM_giftregistry/SMTestAutomation" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\skumari.OSIUS\IdeaProjects\Automation\src\main\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\skumari.OSIUS\IdeaProjects\Automation\src\main\java\com\sweety\automation\IOA" />
       <recent name="C:\Users\skumari.OSIUS\IdeaProjects\Automation\src\main\java\com\sweety\automation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skumari.OSIUS\IdeaProjects\Automation\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -256,23 +481,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Automation">
+  <component name="RunManager" selected="Application.WordsCharsLinesInFile">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Automation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Practise.Automation" />
-      <module name="Automation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Practise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DateRelated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.DateRelated" />
+    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.LongestSubString" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -282,8 +496,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SimpleDateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.SimpleDateString" />
+    <configuration name="OccurrenceOfEachChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.OccurrenceOfEachChar" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -293,8 +507,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.StringEx1" />
+    <configuration name="PermutationOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.PermutationOfString" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -304,13 +518,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WebAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.WebAutomation" />
+    <configuration name="RegularExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.RegularExp" />
       <module name="Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sweety.automation.*" />
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WordsCharsLinesInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sweety.automation.StringRelated.WordsCharsLinesInFile" />
+      <module name="Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sweety.automation.StringRelated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,19 +703,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.StringEx1" />
-      <item itemvalue="Application.DateRelated" />
-      <item itemvalue="Application.SimpleDateString" />
-      <item itemvalue="Application.WebAutomation" />
-      <item itemvalue="Application.Automation" />
+      <item itemvalue="Application.LongestSubString" />
+      <item itemvalue="Application.OccurrenceOfEachChar" />
+      <item itemvalue="Application.PermutationOfString" />
+      <item itemvalue="Application.RegularExp" />
+      <item itemvalue="Application.WordsCharsLinesInFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Automation" />
-        <item itemvalue="Application.WebAutomation" />
-        <item itemvalue="Application.DateRelated" />
-        <item itemvalue="Application.SimpleDateString" />
-        <item itemvalue="Application.StringEx1" />
+        <item itemvalue="Application.WordsCharsLinesInFile" />
+        <item itemvalue="Application.RegularExp" />
+        <item itemvalue="Application.PermutationOfString" />
+        <item itemvalue="Application.OccurrenceOfEachChar" />
+        <item itemvalue="Application.LongestSubString" />
       </list>
     </recent_temporary>
   </component>
@@ -522,30 +747,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50682855" side_tool="true" weight="0.27966103" />
-      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32924962" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.2779661" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3290469" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.31864408" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.3565365" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
-      <window_info id="Capture Tool" />
-      <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29954615" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34266263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.24961714" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24886535" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989547" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989547" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32928678" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32928678" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -556,26 +781,26 @@
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.27966103" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30847457" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35128984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49317148" weight="0.27966103" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
       <window_info anchor="right" id="Designer" order="6" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3996479" />
-      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32928678" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32928678" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50682855" side_tool="true" weight="0.27966103" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30847457" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32928678" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32764506" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32928678" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -629,312 +854,360 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Practise/JavaBasics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AModifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="304" column="67" selection-start-line="304" selection-start-column="67" selection-end-line="304" selection-end-column="67" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/WebAutomationA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AMultiDimension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="90" column="14" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.10.0/selenium-api-3.10.0.jar!/org/openqa/selenium/Alert.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AMultiLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.10.0/selenium-api-3.10.0.jar!/org/openqa/selenium/TakesScreenshot.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ANestedInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Notepad.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/APassByValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/APredicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Runtime.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.10.0/selenium-firefox-driver-3.10.0.jar!/org/openqa/selenium/firefox/FirefoxOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="194" column="37" selection-start-line="194" selection-start-column="37" selection-end-line="194" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/PermutationOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringImmutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/totalChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/WordsCharsLinesInFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/MostRepeatedWordFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccuranceOfChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/OccurrenceOfEachChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RemoveWhiteSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RepeatedWordsInFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DuplicateWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/LongestSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/APrivate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ADateTime.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASearchRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-922">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringToDate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASingleDimesion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/ArrayRelated.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASingleInheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Character.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AMaxminum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/text/SimpleDateFormat.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="6" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/SwapStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStaticNested.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/MultipleString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStringBufferMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="-122">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/FirstRepeatedNonRepeated.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStringConcatenation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStringMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AStringPrograms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Object.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/regex/Pattern.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/RegularExp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ASwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringEx1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ATernary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/StringPrgm1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AThrowKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AThrowsKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AToStringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AutoUnBoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/AWithoutMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/BAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparatorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ComparableA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/DefaultInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ExceptionHandlingA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ExceptionHandlingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ExceptionHandlingMethodOveriding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/InitializationOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/LambdaInCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/time/LocalDate.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/time/format/DateTimeFormatter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/SimpleDateString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/MethodOverloadingAutoboxing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StringRelated/DateRelated.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Notepad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.10.0/selenium-api-3.10.0.jar!/org/openqa/selenium/WebDriver.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/PatternMatches.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="84" column="41" lean-forward="true" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/SeleniumGrid.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Polymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/Questions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/RestfulService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ScreenShot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.10.0/selenium-chrome-driver-3.10.0.jar!/org/openqa/selenium/chrome/ChromeOptions.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/SeleniumGrid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Practise/Automation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/StreamEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        <state relative-caret-position="391">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/WebAutomation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ThisKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1737">
-          <caret line="478" column="31" selection-start-line="478" selection-start-column="31" selection-end-line="478" selection-end-column="31" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/ProgramsArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VariableAgrs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="561" column="5" selection-start-line="561" selection-start-column="5" selection-end-line="561" selection-end-column="5" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/VectorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sweety/automation/JDBCSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>

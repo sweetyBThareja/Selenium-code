@@ -48,5 +48,14 @@ public class JDBCSingleton {
             System.out.println(e);
         }
     }
+//    public void getSomeThing(){
+//        // do something here
+//        System.out.println("I am here....");
+//    }
+//
+//    public static void main(String a[]){
+//        JDBCSingleton st = JDBCSingleton.getInstance();
+//        st.getSomeThing();
+//    }
 
 }
